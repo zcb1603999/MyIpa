@@ -1,0 +1,2 @@
+# TestMyipa_resource
+resource
